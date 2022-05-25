@@ -209,13 +209,13 @@ section{
     padding-bottom: 40px;
 }
 #ad .image{
-    background: url("images/Ad\ Astra\,\ Trevor\ Beach.jpg") center/cover no-repeat;
+    background: url("Ad\ Astra\,\ Trevor\ Beach.jpg") center/cover no-repeat;
 }
 #upcoming .image{
-    background: url("images/Upcoming\ Movies.jpg") center/cover no-repeat;
+    background: url("Upcoming\ Movies.jpg") center/cover no-repeat;
 }
 #jurassic .image{
-    background: url("images/Jurássic\ woldr\ domínio.jpg") center/cover no-repeat;
+    background: url("Jurássic\ woldr\ domínio.jpg") center/cover no-repeat;
 }
 .content{
     background: #fff;
